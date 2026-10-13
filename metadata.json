@@ -1,0 +1,6 @@
+{
+  "name": "Open Gate",
+  "description": "A marketplace and auction platform for goods, services, and live bidding",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+# انسخ هذا الملف إلى local.properties (لا تضعه في Git)
+sdk.dir=/path/to/Android/sdk
+SUPABASE_URL=https://YOUR_PROJECT.supabase.co
+SUPABASE_ANON_KEY=YOUR_PUBLISHABLE_OR_ANON_KEY
+
+# توقيع الإصدار النهائي (اختياري حتى تجهّز keystore خاصاً بك)
+# RELEASE_STORE_FILE=/absolute/path/to/release.keystore
+# RELEASE_STORE_PASSWORD=
+# RELEASE_KEY_ALIAS=
+# RELEASE_KEY_PASSWORD=
